@@ -1,7 +1,7 @@
 {
-  "name": "홍길동",
-  "bio": "여기에 한 줄 소개가 들어갑니다",
-  "image": "/avatar-dummy.svg",
+  "name": "김정태",
+  "bio": "세계 최강의 사나이 / 실력은 좋은데 운이없음",
+  "image": "/profile.jpeg.jpeg",
   "links": [
     { "id": "github", "title": "GitHub", "url": "https://github.com" },
     { "id": "linkedin", "title": "LinkedIn", "url": "https://www.linkedin.com" },
